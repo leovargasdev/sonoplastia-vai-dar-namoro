@@ -44,6 +44,6 @@ Este projeto é um tutorial que ensina a criar uma interface com a sonoplastia d
 
 ## 📺 Tutorial no Youtube
 
-<!-- <a href="https://www.youtube.com/watch?v=3pAnc4Miv00" target="_blank">
- <img src="https://img.youtube.com/vi/3pAnc4Miv00/maxresdefault.jpg" width="100%" height="auto" />
-</a> -->
+<a href="https://www.youtube.com/watch?v=7AyJVR3rL9Q" target="_blank">
+ <img src="https://img.youtube.com/vi/7AyJVR3rL9Q/maxresdefault.jpg" width="100%" height="auto" />
+</a>
