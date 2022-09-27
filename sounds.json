@@ -1,0 +1,55 @@
+[
+  {
+    "hotkey": "q",
+    "label": "uuuuuuuuuuuuuuiiiii",
+    "path": "./assets/sounds/ui.mp3"
+  }, {
+    "hotkey": "w",
+    "label": "que isso meu filho, calma",
+    "path": "./assets/sounds/que-isso-meu-filho.mp3"
+  }, {
+    "hotkey": "e",
+    "label": "tomi",
+    "path": "./assets/sounds/tomi.mp3"
+  }, {
+    "hotkey": "r",
+    "label": "eu não entendi oq você falou",
+    "path": "./assets/sounds/eu-nao-entendi-o-que-ele-falou.mp3"
+  }, {
+    "hotkey": "a",
+    "label": "Iraaaaaa",
+    "path": "./assets/sounds/irraa.mp3"
+  }, {
+    "hotkey": "s",
+    "label": "cavalo",
+    "path": "./assets/sounds/cavalo.mp3"
+  }, {
+    "hotkey": "d",
+    "label": "esqueça tudo",
+    "path": "./assets/sounds/esqueca-tudo.mp3"
+  }, {
+    "hotkey": "f",
+    "label": "olha ele aê",
+    "path": "./assets/sounds/olha-ele-ae.mp3"
+  }, {
+    "hotkey": "z",
+    "label": "calma pae",
+    "path": "./assets/sounds/calma-pae.mp3"
+  }, {
+    "hotkey": "x",
+    "label": "ueeeeeeepa",
+    "path": "./assets/sounds/uepa.mp3"
+  }, {
+    "hotkey": "c",
+    "label": "é brincadeira",
+    "path": "./assets/sounds/e-brincadeira-ein.mp3"
+  }, {
+    "hotkey": "v",
+    "label": "chegaaa",
+    "path": "./assets/sounds/cheega.mp3"
+  }, {
+    "hotkey": "b",
+    "label": "ele gostaaaaaa",
+    "path": "./assets/sounds/ele-gosta.mp3"
+  }
+]

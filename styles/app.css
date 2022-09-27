@@ -1,0 +1,52 @@
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 48px;
+
+  padding: 48px;
+
+  min-height: 100vh;
+}
+
+#app h1 {
+  font-size: 4rem;
+  line-height: 3.5rem;
+  font-family: 'Archivo Black';
+  text-transform: uppercase;
+  font-weight: 400;
+  text-align: center;
+
+  text-shadow: 2px 2px var(--red);
+
+  max-width: 750px;
+  width: 100%;
+}
+
+.background-heart {
+  position: fixed;
+  inset: 0;
+
+  z-index: -1;
+  opacity: 0.08;
+
+  background: url('../assets/heart.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-size: 1000px;
+}
+
+.background-heart-small {
+  position: fixed;
+  inset: 0;
+
+  z-index: -1;
+  opacity: 0.08;
+
+  background: url('../assets/heart.png'), url('../assets/heart.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left 30px, right 400px;
+  background-size: 500px;
+}

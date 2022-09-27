@@ -1,0 +1,23 @@
+@import url('./app.css');
+@import url('./sounds.css');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --text: #f5f6fa;
+  --red: #cb405c;
+  --red-dark: #8a0013;
+}
+
+body {
+  background: radial-gradient(circle, var(--red) 0%, var(--red-dark) 100%);
+}
+
+body, button {
+  color: var(--text);
+  font: 400 1rem 'Lato', sans-serif;
+}
